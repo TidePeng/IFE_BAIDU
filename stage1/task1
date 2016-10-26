@@ -1,1 +1,111 @@
-
+<!doctype html>
+<head>
+  <title>task_1</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>我的主页</h1>
+	  <ul>
+		  <li><a href="#">导航链接一</a></li>
+		  <li><a href="#">导航链接二</a></li>
+		  <li><a href="#">导航链接三</a></li>
+		  <li><a href="#">导航链接四</a></li>
+	</ul>
+	<artitle>
+	  <h2>文章一级标题</h2>
+	  <h2>文章二级标题</h2>
+		  <p>文章作者 文章发表时间</p>
+		  <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br/>
+		     这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br/>
+		     这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有个粗体字</b>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。</p> 
+	</article>
+	<img src="http://desk.fd.zol-img.com.cn/t_s960x600c5/g5/M00/08/00/ChMkJlexsMuIQie-AAg2b09O224AAUdPgM-mJwACDaH277.jpg">
+	<article>
+		<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br/>
+		这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有个粗体字</b>这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com" target="_blank">这里友谊购物链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。</p>
+	</article>
+	<img href="http://desk.fd.zol-img.com.cn/t_s960x600c5/g5/M00/08/00/ChMkJlexsMuIQie-AAg2b09O224AAUdPgM-mJwACDaH277.jpg">
+	<ul>
+		<li>列表项目一</li>
+		<li>列表项目二</li>
+		<li>列表项目三</li>
+	</ul>
+  <h2>图片</h2>
+	  <figure>
+      <figcaption>好看的图片</figcaption>
+		  <img title="好看的图片" src="http://desk.fd.zol-img.com.cn/t_s960x600c5/g5/M00/08/00/ChMkJlexsMuIQie-AAg2b09O224AAUdPgM-mJwACDaH277.jpg" /></figcapyion><br/>
+		  <figcaption>好看的图片</figcaption>
+		  <img title="好看的图片" src="http://desk.fd.zol-img.com.cn/t_s960x600c5/g5/M00/08/00/ChMkJlexsMuIQie-AAg2b09O224AAUdPgM-mJwACDaH277.jpg" /></figcapyion><br/>
+		  <figcaption>好看的图片</figcaption>
+		  <img title="好看的图片" src="http://desk.fd.zol-img.com.cn/t_s960x600c5/g5/M00/08/00/ChMkJlexsMuIQie-AAg2b09O224AAUdPgM-mJwACDaH277.jpg" /></figcapyion><br/>
+		  <figcaption>好看的图片</figcaption>
+		  <img title="好看的图片" src="http://desk.fd.zol-img.com.cn/t_s960x600c5/g5/M00/08/00/ChMkJlexsMuIQie-AAg2b09O224AAUdPgM-mJwACDaH277.jpg" /></figcaption>
+	</figure>
+	<h2>最后一篇文章一级标题</h2>
+	<h2>文章二级标题</h2>
+		<p>文章作者 文章发表时间<p>
+			<ol>
+				<li>排名1</li>
+				<li>排名2</li>
+				<li>排名3</li>
+			</ol>
+  <p>下面是一个表格，给表格加了一个border="1"好让你看出是一个表格</p>
+  <table border="1">
+	  <tr>
+		  <th>表头</th>
+		  <th>表头</th>
+		  <th>表头</th>
+	  </tr>
+	  <tr>
+		  <td>表内容单元格</td>
+		  <td>表内容单元格</td>
+		  <td>操作</td>
+	  </tr>
+  <tr>
+		  <td>表内容单元格</td>
+		  <td>表内容单元格</td>
+		  <td>操作</td>
+	</tr>
+  <tr>
+		  <td>表内容单元格</td>
+		  <td>表内容单元格</td>
+		  <td>操作</td>
+	</tr>
+  <tr>
+		  <td>表内容单元格</td>
+		  <td>表内容单元格</td>
+		  <td>操作</td>
+	</tr>
+	<tr>	
+		  <td>总计</td>
+		  <td>1000</td>
+	</tr>
+  </table>
+  <h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+	<h2>侧栏注册窗口标题</h2>
+  <aside>
+    <form action="">
+      <label for="email">请输入邮箱地址：</label>
+      <input type="text" name="email" value="这是一个文本输入框"><br/>
+      <span>邮箱地址请按要求格式输入</span><br/>
+            请输入密码：<input type="password" name="password" ><br/>
+            请重复输入密码：<input type="password" name="password" ><br/>
+            密码请为6-16位英文数字<br/>
+            性别：<input type="radio" >男 <input type="radio" >女 城市：
+                <select>
+                  <option value="beijing">北京</option>
+                  <option value="saab">Saab</option>
+                  <option value="opel">Opel</option>
+                  <option value="audi">Audi</option>
+                </select>
+            爱好：<input type="checkbox">运动 <input type="checkbox">艺术 <input type="checkbox">科学<br/>
+            个人描述：<textarea value="">这是一个多行输入框，输入您的个人描述</textarea><input type="submit" value="确认提交">
+    </form>
+  </aside>
+<footer>
+  版权所有@
+</footer>
+</body>
+</html>
+</aside>
+</body> 
